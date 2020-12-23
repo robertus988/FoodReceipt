@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+* {
+	margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+main {
+  width: 90%;
+  max-width: 800px;
+  margin: 32px auto;
+}
+
+food-list {
+  display: inline-block;
+  margin-top: 32px;
+  width: 100%;
+  padding: 18px;
+}
